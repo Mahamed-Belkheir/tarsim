@@ -6,7 +6,8 @@
         "experimentalDecorators": true,
         "moduleResolution": "node",
         "outDir": "./dist",
-        "declaration": true
+        "declaration": true,
+        "types": ["reflect-metadata"]
     },
     "include": [
         "./src"
