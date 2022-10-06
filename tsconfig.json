@@ -1,12 +1,13 @@
 {
     "compilerOptions": {
-        "target": "ESNext",
         "emitDecoratorMetadata": true,
         "esModuleInterop": true,
         "experimentalDecorators": true,
         "moduleResolution": "node",
         "outDir": "./dist",
-        "declaration": true
+        "declaration": true,
+        "target": "ES2016",
+        "module": "commonjs",
     },
     "include": [
         "./src"

@@ -14,7 +14,7 @@
     "reflect-metadata": "^0.1.13"
   },
   "name": "tarsim",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "yet another json schema decorators library, with multi schema support",
   "main": "./dist/index.js",
   "author": "Mahamed Belkheir",
