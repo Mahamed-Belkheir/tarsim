@@ -20,5 +20,17 @@
   "scripts": {
     "build": "tsc --project ./tsconfig.build.json",
     "test": "jest"
-  }
+  },
+  "files": [
+    "dist/"
+  ],
+  "keywords": [
+    "json-schema",
+    "json schema",
+    "json",
+    "schema",
+    "decorators",
+    "ajv",
+    "validation"
+  ]
 }
